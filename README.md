@@ -18,7 +18,7 @@ This training is part of the PSOC™ Edge Security training series and introduce
 - This training doesn't cover basic concepts of ModusToolbox™ and PSOC™ Edge. 
   - For an introduction to PSOC™ MCUs, including getting started guides to ModusToolbox™, go to the [PSOC™ Developer Journey](https://www.infineon.com/PSOCdeveloper).
   - For PSOC™ Edge trainings, from beginner tutorials to advanced trainings, please visit the [PSOC™ Edge E84 Training Collection](https://infineon-academy.csod.com/ui/lms-learner-playlist/PlaylistDetails?playlistId=8f04565f-88f4-4ca7-83b3-22e501656fbd).
-- For an introduction to PSOC™ Edge Security, visit https://github.com/Infineon/mtb-training-psoc-edge-security-intro
+- For an introduction to PSOC™ Edge Security, visit the [PSOC™ Edge Security Introduction training](https://github.com/Infineon/mtb-training-psoc-edge-security-intro).
 
 ### Tools (see [training manual](#content) for versions and installation instructions)
 - [ModusToolbox™ with Eclipse IDE](https://softwaretools.infineon.com/tools/com.ifx.tb.tool.modustoolboxsetup)
@@ -58,4 +58,5 @@ This training is part of the PSOC™ Edge Security training series and introduce
 ## History 
 | Date       | Version | Description             |
 |------------|---------|-------------------------|
+| 05/07/2026 | *A      | Updated tool versions. <br>Updated lab screenshots.  |
 | 02/16/2026 | **      | First public release    |
