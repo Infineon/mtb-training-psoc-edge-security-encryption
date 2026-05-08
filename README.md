@@ -45,7 +45,7 @@ This training is part of the PSOC™ Edge Security training series and introduce
 - Gain practical experience using application encryption on PSOC™ Edge
 
 ## Content
-- Training video at Infineon Academy (coming soon)
+- [Training video at Infineon Academy](https://infineon-academy.csod.com/ui/lms-learning-details/app/video/94ffd183-6183-4bb5-af91-49b7dd711a0a)
 - [Presentation](./Presentation/PSE84_Encryption.pdf)
 - [Training manual](./Manual/PSE84_Encryption_TrainingManual.pdf)
 
