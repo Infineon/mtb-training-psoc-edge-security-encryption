@@ -13,9 +13,9 @@ This training is part of the PSOC™ Edge Security training series and introduce
 ## Training level
 - E3: Advanced
 
-## Pre-requisites 
+## Prerequisites
 ### Recommended trainings
-- This training doesn't cover basic concepts of ModusToolbox™ and PSOC™ Edge. 
+- This training does not cover basic concepts of ModusToolbox™ and PSOC™ Edge.
   - For an introduction to PSOC™ MCUs, including getting started guides to ModusToolbox™, go to the [PSOC™ Developer Journey](https://www.infineon.com/PSOCdeveloper).
   - For PSOC™ Edge trainings, from beginner tutorials to advanced trainings, please visit the [PSOC™ Edge E84 Training Collection](https://infineon-academy.csod.com/ui/lms-learner-playlist/PlaylistDetails?playlistId=8f04565f-88f4-4ca7-83b3-22e501656fbd).
 - For an introduction to PSOC™ Edge Security, visit the [PSOC™ Edge Security Introduction training](https://github.com/Infineon/mtb-training-psoc-edge-security-intro).
@@ -55,8 +55,9 @@ This training is part of the PSOC™ Edge Security training series and introduce
 - [Introduction to PSOC™ MCUs and ModusToolbox™](https://www.infineon.com/PSOCdeveloper)
 - [PSOC™ Edge E84 training collection](https://infineon-academy.csod.com/samldefault.aspx?ouid=1&returnURL=%252fDeepLink%252fProcessRedirect.aspx%253fmodule%253dphnxdriver%2526routename%253dAdmin%252fPlayerPageRedirectHandler%2526Route%253d%25252flms-learner-playlist%25252fPlaylistDetails%2526Parameters%253dplaylistId%25253d8f04565f-88f4-4ca7-83b3-22e501656fbd)
 
-## History 
-| Date       | Version | Description             |
-|------------|---------|-------------------------|
-| 05/07/2026 | *A      | Updated tool versions. <br>Updated lab screenshots.  |
-| 02/16/2026 | **      | First public release    |
+## History
+| Date       | Version | Description |
+|------------|---------|-------------|
+| 07/02/2026 | *B | Add support for AI-Kit |
+| 05/07/2026 | *A | Updated tool versions.<br>Updated lab screenshots. |
+| 02/16/2026 | ** | First public release |
